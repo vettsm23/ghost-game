@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - StVeGhost
+  - Enemy
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - BGblack
+  - Ghost
+  - BGdark
+  - BGlight
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Ghost
+    uniqueID: 2956750547
+    locked: 0
+  - name: BGblack
+    uniqueID: 428051269
+    locked: 0
+  - name: BGdark
+    uniqueID: 48675985
+    locked: 0
+  - name: BGlight
+    uniqueID: 3436501425
+    locked: 0
